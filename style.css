@@ -15,12 +15,21 @@
     background-position: center;
     background-size: cover;
     width: 100%;
+<<<<<<< HEAD
     height: 50vh;
+=======
+    height: 100vh;
+>>>>>>> a22a0f36fc8215d30e0c14e5ff694ddf61846db5
 }
 
 .btn:hover {
     background-color: black;
 }
+<<<<<<< HEAD
+=======
+
+
+>>>>>>> a22a0f36fc8215d30e0c14e5ff694ddf61846db5
 
 
 
@@ -31,6 +40,12 @@
 .flex {
     padding: 20vh 10vh 10vh;
 }
+<<<<<<< HEAD
+=======
+
+
+
+>>>>>>> a22a0f36fc8215d30e0c14e5ff694ddf61846db5
 .what-we-do,
 .meet-our-team,
 .our-creation {
@@ -40,9 +55,12 @@
 
 span {
     color: blue;
+<<<<<<< HEAD
 }
 
 .span-2 {
     color: blue;
     font-size: 30px;
+=======
+>>>>>>> a22a0f36fc8215d30e0c14e5ff694ddf61846db5
 }
