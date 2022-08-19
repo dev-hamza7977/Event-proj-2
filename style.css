@@ -17,13 +17,13 @@
     width: 100%;
     height: 50vh;
 
-    height: 100vh;
 
 }
 
 .btn:hover {
     background-color: black;
 }
+
 .heading {
     margin-top: 15vh;
 }
@@ -50,16 +50,15 @@ span {
 
 }
 
-.card-body:hover{
+.card-body:hover {
     border: 10px solid red;
 }
 
-.footer-obj:hover{
+.footer-obj:hover {
     color: blue;
     font-size: 30px;
 }
 
-.fa{
+.fa {
     font-size: 30px;
 }
-
