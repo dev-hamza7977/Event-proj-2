@@ -62,3 +62,8 @@ span {
 .fa {
     font-size: 30px;
 }
+
+.footer-alink {
+    color: white;
+    text-decoration: none;
+}
